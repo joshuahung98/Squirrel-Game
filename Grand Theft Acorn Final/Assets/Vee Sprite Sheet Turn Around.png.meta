@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: 50cb61efb8bb34b4c9389bae3a856c60
+timeCreated: 1437092453
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Vee Sprite Sheet Turn Around_0
+    21300002: Vee Sprite Sheet Turn Around_1
+    21300004: Vee Sprite Sheet Turn Around_2
+    21300006: Vee Sprite Sheet Turn Around_3
+    21300008: Vee Sprite Sheet Turn Around_4
+    21300010: Vee Sprite Sheet Turn Around_5
+    21300012: Vee Sprite Sheet Turn Around_6
+    21300014: Vee Sprite Sheet Turn Around_7
+    21300016: Vee Sprite Sheet Turn Around_8
+    21300018: Vee Sprite Sheet Turn Around_9
+    21300020: Vee Sprite Sheet Turn Around_10
+    21300022: Vee Sprite Sheet Turn Around_11
+    21300024: Vee Sprite Sheet Turn Around_12
+    21300026: Vee Sprite Sheet Turn Around_13
+    21300028: Vee Sprite Sheet Turn Around_14
+    21300030: Vee Sprite Sheet Turn Around_15
+    21300032: Vee Sprite Sheet Turn Around_16
+    21300034: Vee Sprite Sheet Turn Around_17
+    21300036: Vee Sprite Sheet Turn Around_18
+    21300038: Vee Sprite Sheet Turn Around_19
+    21300040: Vee Sprite Sheet Turn Around_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Vee Sprite Sheet Turn Around_0
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 792
+        width: 476
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vee Sprite Sheet Turn Around_1
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 785
+        width: 365
+        height: 693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vee Sprite Sheet Turn Around_2
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 779
+        width: 280
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vee Sprite Sheet Turn Around_3
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 789
+        width: 224
+        height: 694
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vee Sprite Sheet Turn Around_4
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 1046
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vee Sprite Sheet Turn Around_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 31
+        width: 224
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vee Sprite Sheet Turn Around_6
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 25
+        width: 271
+        height: 698
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vee Sprite Sheet Turn Around_7
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 35
+        width: 366
+        height: 701
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vee Sprite Sheet Turn Around_8
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 38
+        width: 484
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vee Sprite Sheet Turn Around_9
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 349
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vee Sprite Sheet Turn Around_10
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 28
+        width: 366
+        height: 701
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vee Sprite Sheet Turn Around_11
+      rect:
+        serializedVersion: 2
+        x: 3983
+        y: 38
+        width: 273
+        height: 698
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vee Sprite Sheet Turn Around_12
+      rect:
+        serializedVersion: 2
+        x: 4728
+        y: 41
+        width: 224
+        height: 695
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vee Sprite Sheet Turn Around_13
+      rect:
+        serializedVersion: 2
+        x: 5503
+        y: 38
+        width: 276
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vee Sprite Sheet Turn Around_14
+      rect:
+        serializedVersion: 2
+        x: 6178
+        y: 41
+        width: 366
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vee Sprite Sheet Turn Around_15
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 318
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vee Sprite Sheet Turn Around_16
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 315
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vee Sprite Sheet Turn Around_17
+      rect:
+        serializedVersion: 2
+        x: 4267
+        y: 302
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vee Sprite Sheet Turn Around_18
+      rect:
+        serializedVersion: 2
+        x: 4967
+        y: 302
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vee Sprite Sheet Turn Around_19
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 290
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vee Sprite Sheet Turn Around_20
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 292
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
